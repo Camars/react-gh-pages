@@ -29,16 +29,113 @@ module.exports = {
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "CompuCom",
+      "position": "Full Stack Javascript Developer",
+      "website": "https://www.compucom.com/",
+      "startDate": "05-2017",
+      "endDate": "Present",
+      "summary": "I build web apps from concepts into reality, prototyping angular 2+ apps with node backend/APIs and MySQL database source controlled with Git.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Building prototypes with Angular 2+ with Angular CLI, HTML5, CSS3/SCSS, Typescript/ES6, node.js, MySQL",
+        "Testing and fixing cross browser issues",
+        "Closely working with designers to develop CSS for pixel perfect responsive sites.",
+        "Building APIs to call database for data",
+        "Designed mySQL database for holding data",
+        "Turning data into JSON for content",
+        "Designing for smaller modular components",
+        "Building reporting framework that utilizes ngx-charts for charting",
+        "Utilizing Angular Material Design for quick/elegant styles",
+        "Building an authentication server to use as a SSO for multiple apps with passport.js"
+      ]
+    },
+    {
+      "company": "Lowe’s Home Improvement",
+      "position": "Prototyper",
+      "website": "https://www.lowes.com/",
+      "startDate": "07-2016",
+      "endDate": "03-2017",
+      "summary": "Built rapid front-end prototypes using HTML5, CSS3/LESS, JavaScript/JQuery/Ajax/ES6, React, node.js",
+      "highlights": [
+        "Utilized Facebook’s packaged create-react-app",
+        "Tested and fixed cross browser issues",
+        "Transpiled ES6 with Babel automatically process/compile LESS/JS and minify it using Webpack",
+        "Developed NPM scripts to run Webpack server for local testing/development",
+        "Pushed finished projects to Dev/Production environments",
+        "Closely worked with designer or Sketch files to develop CSS for pixel perfect responsive sites.",
+        "Coordinated with stakeholders to develop specifications/requirements for prototypes",
+        "Worked in Agile/Scrum sprints to develop wireframes and features",
+        "Smartspot( www.lowes.com/smartspot )",
+        "Built with React.js for ease of application's state",
+        "Uses HTTP request for data from API",
+        "JSON for content",
+        "Modular design",
+        "LowesDIY( http://www.lowesdiy.com )",
+        "Lightweight templates for testing purposes",
+        "Utilized mustashe.js for templating",
+        "jQuery/Javascript for manipulating the DOM",
+        "AJAX for loading data from API"
+      ]
+    },
+    {
+      "company": "Market America",
+      "position": "UI/UX Developer",
+      "website": "https://www.marketamerica.com",
+      "startDate": "04-2015",
+      "endDate": "07-2016",
+      "summary": "Maintained/added new functionality to already built web applications and helped with redesigning and developing a newer web application as well.",
+      "highlights": [
+        "Built web pages using HTML5, CSS3/SASS, JavaScript/JQuery/Ajax, and ColdFusion",
+        "Developed sites with content management systems so content can be viewed in different languages",
+        "Tested and fix cross browser issues with Browserstack",
+        "Eased future development using Block, Element, Modifier (BEM) for semantic naming",
+        "Compiled code using Gulp/Grunt automatically for JS/SCSS",
+        "Fixed and prioritized site-related design bugs/issues with Asana",
+        "Redesigned old site with new technologies for a responsive design",
+        "Monitored projects/bugs for testing in Dev/Staging/Production with JIRA",
+        "Experienced in Agile/Scrum (Mobile First development, Pair Programming, Code Reviews)",
+        "Coordinated with designers/mock ups to develop new features/sites"
+      ]
+    },
+    {
+      "company": "Outpour Films",
+      "position": "Web Application Developer",
+      "website": "",
+      "startDate": "10-2014",
+      "endDate": "04-2015",
+      "summary": "Started my career off with a start up company, a senior developer and I built a web application that student film makers could use to upload thier content and rate their peers films.",
+      "highlights": [
+        "Developed the site using bootstrap and database integration with ADO.net and SQL server ",
+        "Built web pages using HTML, JQuery, Bootstrap, and C#",
+        "Created user profiles in database and HTML expanding user traffic capacity",
+        "Constructed social pages and manage user traffic  ",
+        "Improved user satisfaction by boosting the efficiency of MySQL query designs, eliminating bugs and scaling back end systems to meet growing traffic requirements",
+        "Partnered with designers to create sitemaps, improve Web page layouts and interfaces",
+        "Prioritized and fix site-related design problems",
+        "Implemented new features based on user feedback",
+        "Boosted conversions on the site by analyzing traffic return-on-investment ",
+        "Coordinated with marketing team for the presentation of website and other marketing material",
+        "Coordinated with content writing team for the content on website ",
+        "Outpour Films Site:",
+        "Developed SQL Server database in Azure cloud service for user info, films, and film info",
+        "Used Entity Framework, LINQ, and C#: brought database into MVC format.",
+        "Developed UI with Bootstrap 3.0, HTML5, CSS3, and JQuery."
+      ]
+    },
+    {
+      "company": "Coder Foundry",
+      "position": "Web Application Developer Intern",
+      "website": "",
+      "startDate": "07-2014",
+      "endDate": "10-2014",
+      "summary": "This was partly a bootcamp and partly an internship that I took on to learn web development initially.",
+      "highlights": [
+        "Trained on utilizing SQL server, HTML, JQuery, C# and Bootstrap",
+        "Built web apps database in SQL server",
+        "Bug Tracker:",
+        "Developed SQL Server database for user info, bug info, and each role’s info.",
+        "Used Entity Framework, LINQ, and C#: brought database into MVC format.",
+        "Developed UI with Bootstrap 3.0, HTML5, CSS3, and JQuery."
+
       ]
     }
   ],
@@ -58,7 +155,7 @@ module.exports = {
   "education": [
     {
       "institution": "Coder Foundry",
-      "area": "SQL Server, HTML, JQuery, C#, Bootstrap, N-tier Web Application, Database Design",
+      "area": "Web Developer Coding Bootcamp",
       "location": "Kernersville, NC",
       "startDate": "07-2014",
       "endDate": "10-2014"
