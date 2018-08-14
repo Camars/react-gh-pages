@@ -1,42 +1,47 @@
 .c-heading {
-    color: grey;
-    padding-bottom: 10px;
-    border-bottom: 2px dashed grey;
+  color: grey;
+  padding-bottom: 10px;
+  border-bottom: 2px dashed grey;
 }
 
 .skills-container {
-    margin: 2rem 0;
+  margin: 2rem 0;
 }
 
 .c-skill {
-    border: 2px solid #05a6c2;
-    color: black;
-    background: #00d0f5;
-    margin: 5px 8px;
-    border-radius: 10px;
-    padding: 6px;
-    box-shadow: 4px 4px #505050;
-    font-family: 'Boogaloo', cursive;
-    font-size: 18px;
-    letter-spacing: 1px;
+  border: 2px solid #05a6c2;
+  color: black;
+  background: #00d0f5;
+  margin: 5px 8px;
+  border-radius: 10px;
+  padding: 6px;
+  box-shadow: 4px 4px #505050;
+  font-family: "Boogaloo", cursive;
+  font-size: 18px;
+  letter-spacing: 1px;
 }
 
 .jobs {
-    margin-top: 2.5rem;
+  margin-top: 2.5rem;
 }
 
 .start-end {
-    color: grey;
+  color: grey;
 }
 
 .job-company {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 .education {
-    margin: 1rem;
+  margin: 1rem;
 }
 
 .education p {
-    margin: 0;
+  margin: 0;
+}
+
+.c-clickShow {
+  max-height: 50px;
+  overflow: hidden;
 }
