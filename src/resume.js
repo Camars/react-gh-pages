@@ -1,41 +1,43 @@
 module.exports = {
-  "basics": {
-    "name": "Chris Marshall",
-    "label": "UI Javascript Developer",
-    "picture": "",
-    "email": "Cammarshall42@gmail.com",
-    "phone": "(336) 413-4767",
-    "website": "https://camars.github.io/",
-    "summary": "Chris hails from King, North Carolina. He went to a few colleges and ran his own landscaping company before realizing his love for telling computers how to do things. He started his career in a start-up called Outpour Films where he mostly did front end work. He then moved up to a UI developer working at Market America but this was very far from his new home in Charlotte so he then became a prototyper at Lowes Home Improvement. After some downsizing he then moved to a more full stack role at CompuCom. He also enjoys playing video games, digging for gems and cutting/polising them and making them into jewlery, hiking, and helping others learn to code.",
-    "location": {
-      "address": "7909 Philadelphia Ct.",
-      "postalCode": "NC 28216",
-      "city": "Charlotte",
-      "countryCode": "US",
-      "region": "North Carolina"
+  basics: {
+    name: "Chris Marshall",
+    label: "UI Javascript Developer",
+    picture: "",
+    email: "Cammarshall42@gmail.com",
+    phone: "(336) 413-4767",
+    website: "https://camars.github.io/",
+    summary:
+      "Chris hails from King, North Carolina. He went to a few colleges and ran his own landscaping company before realizing his love for telling computers how to do things. He started his career in a start-up called Outpour Films where he mostly did front end work. He then moved up to a UI developer at Market America but this was very far from his new home in Charlotte. He then became a prototyper at Lowes Home Improvement. After some downsizing he then moved to a more full stack role at CompuCom. He also enjoys playing video games, digging for gems,cutting/polishing, and them making them into jewelry, hiking, and helping others learn to code.",
+    location: {
+      address: "7909 Philadelphia Ct.",
+      postalCode: "NC 28216",
+      city: "Charlotte",
+      countryCode: "US",
+      region: "North Carolina"
     },
-    "profiles": [
+    profiles: [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        network: "Twitter",
+        username: "neutralthoughts",
+        url: ""
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        network: "SoundCloud",
+        username: "dandymusicnl",
+        url: "https://soundcloud.com/dandymusicnl"
       }
     ]
   },
-  "work": [
+  work: [
     {
-      "company": "CompuCom",
-      "position": "Full Stack Javascript Developer",
-      "website": "https://www.compucom.com/",
-      "startDate": "05-2017",
-      "endDate": "Present",
-      "summary": "I build web apps from concepts into reality, prototyping angular 2+ apps with node backend/APIs and MySQL database source controlled with Git.",
-      "highlights": [
+      company: "CompuCom",
+      position: "Full Stack Javascript Developer",
+      website: "https://www.compucom.com/",
+      startDate: "05-2017",
+      endDate: "Present",
+      summary:
+        "I build web apps from concepts into reality, prototyping angular 2+ apps with node backend/APIs and MySQL database source controlled with Git.",
+      highlights: [
         "Building prototypes with Angular 2+ with Angular CLI, HTML5, CSS3/SCSS, Typescript/ES6, node.js, MySQL",
         "Testing and fixing cross browser issues",
         "Closely working with designers to develop CSS for pixel perfect responsive sites.",
@@ -49,13 +51,14 @@ module.exports = {
       ]
     },
     {
-      "company": "Lowe’s Home Improvement",
-      "position": "Prototyper",
-      "website": "https://www.lowes.com/",
-      "startDate": "07-2016",
-      "endDate": "03-2017",
-      "summary": "Built rapid front-end prototypes using HTML5, CSS3/LESS, JavaScript/JQuery/Ajax/ES6, React, node.js",
-      "highlights": [
+      company: "Lowe’s Home Improvement",
+      position: "Prototyper",
+      website: "https://www.lowes.com/",
+      startDate: "07-2016",
+      endDate: "03-2017",
+      summary:
+        "Built rapid front-end prototypes using HTML5, CSS3/LESS, JavaScript/JQuery/Ajax/ES6, React, node.js",
+      highlights: [
         "Utilized Facebook’s packaged create-react-app",
         "Tested and fixed cross browser issues",
         "Transpiled ES6 with Babel automatically process/compile LESS/JS and minify it using Webpack",
@@ -77,13 +80,14 @@ module.exports = {
       ]
     },
     {
-      "company": "Market America",
-      "position": "UI/UX Developer",
-      "website": "https://www.marketamerica.com",
-      "startDate": "04-2015",
-      "endDate": "07-2016",
-      "summary": "Maintained/added new functionality to already built web applications and helped with redesigning and developing a newer web application as well.",
-      "highlights": [
+      company: "Market America",
+      position: "UI/UX Developer",
+      website: "https://www.marketamerica.com",
+      startDate: "04-2015",
+      endDate: "07-2016",
+      summary:
+        "Maintained/added new functionality to already built web applications and helped with redesigning and developing a newer web application as well.",
+      highlights: [
         "Built web pages using HTML5, CSS3/SASS, JavaScript/JQuery/Ajax, and ColdFusion",
         "Developed sites with content management systems so content can be viewed in different languages",
         "Tested and fix cross browser issues with Browserstack",
@@ -97,13 +101,14 @@ module.exports = {
       ]
     },
     {
-      "company": "Outpour Films",
-      "position": "Web Application Developer",
-      "website": "",
-      "startDate": "10-2014",
-      "endDate": "04-2015",
-      "summary": "Started my career off with a start up company, a senior developer and I built a web application that student film makers could use to upload thier content and rate their peers films.",
-      "highlights": [
+      company: "Outpour Films",
+      position: "Web Application Developer",
+      website: "",
+      startDate: "10-2014",
+      endDate: "04-2015",
+      summary:
+        "Started my career off with a start up company, a senior developer and I built a web application that student film makers could use to upload thier content and rate their peers films.",
+      highlights: [
         "Developed the site using bootstrap and database integration with ADO.net and SQL server ",
         "Built web pages using HTML, JQuery, Bootstrap, and C#",
         "Created user profiles in database and HTML expanding user traffic capacity",
@@ -122,88 +127,83 @@ module.exports = {
       ]
     },
     {
-      "company": "Coder Foundry",
-      "position": "Web Application Developer Intern",
-      "website": "",
-      "startDate": "07-2014",
-      "endDate": "10-2014",
-      "summary": "This was partly a bootcamp and partly an internship that I took on to learn web development initially.",
-      "highlights": [
+      company: "Coder Foundry",
+      position: "Web Application Developer Intern",
+      website: "",
+      startDate: "07-2014",
+      endDate: "10-2014",
+      summary:
+        "This was partly a bootcamp and partly an internship that I took on to learn web development initially.",
+      highlights: [
         "Trained on utilizing SQL server, HTML, JQuery, C# and Bootstrap",
         "Built web apps database in SQL server",
         "Bug Tracker:",
         "Developed SQL Server database for user info, bug info, and each role’s info.",
         "Used Entity Framework, LINQ, and C#: brought database into MVC format.",
         "Developed UI with Bootstrap 3.0, HTML5, CSS3, and JQuery."
-
       ]
     }
   ],
-  "volunteer": [
+  volunteer: [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      organization: "CoderDojo",
+      position: "Teacher",
+      website: "http://coderdojo.com/",
+      startDate: "2012-01-01",
+      endDate: "2013-01-01",
+      summary: "Global movement of free coding clubs for young people.",
+      highlights: ["Awarded 'Teacher of the Month'"]
     }
   ],
-  "education": [
+  education: [
     {
-      "institution": "Coder Foundry",
-      "area": "Web Developer Coding Bootcamp",
-      "location": "Kernersville, NC",
-      "startDate": "07-2014",
-      "endDate": "10-2014"
+      institution: "Coder Foundry",
+      area: "Web Developer Coding Bootcamp",
+      location: "Kernersville, NC",
+      startDate: "07-2014",
+      endDate: "10-2014"
     },
     {
-      "institution": "Wake Technical College",
-      "area": "Simulation Game Design",
-      "location": "Raleigh, NC",
-      "startDate": "08-2008",
-      "endDate": "12-2010"
+      institution: "Wake Technical College",
+      area: "Simulation Game Design",
+      location: "Raleigh, NC",
+      startDate: "08-2008",
+      endDate: "12-2010"
     },
     {
-      "institution": "Surry Community College",
-      "area": "Simulation Game Design",
-      "location": "Dobson, NC",
-      "startDate": "08-2006",
-      "endDate": "05-2008"
+      institution: "Surry Community College",
+      area: "Simulation Game Design",
+      location: "Dobson, NC",
+      startDate: "08-2006",
+      endDate: "05-2008"
     }
   ],
-  "awards": [
+  awards: [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      title: "Digital Compression Pioneer Award",
+      date: "2014-11-01",
+      awarder: "Techcrunch",
+      summary: "There is no spoon."
     }
   ],
-  "publications": [
+  publications: [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      name: "Video compression for 3d media",
+      publisher: "Hooli",
+      releaseDate: "2014-10-01",
+      website: "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      summary:
+        "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
-  "skills": [
+  skills: [
     {
-      "name": "Computer  Languages",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+      name: "Computer  Languages",
+      keywords: ["HTML", "CSS", "Javascript"]
     },
     {
-      "name": "Platforms/Libraries",
-      "keywords": [
+      name: "Platforms/Libraries",
+      keywords: [
         "Windows",
         "MacOS",
         "Angular 2+",
@@ -215,26 +215,20 @@ module.exports = {
       ]
     },
     {
-      "name": "Software",
-      "keywords": [
-        "MS Office",
-        "VS Code",
-        "Sublime",
-        "Git",
-        "Visual Studios"
-      ]
+      name: "Software",
+      keywords: ["MS Office", "VS Code", "Sublime", "Git", "Visual Studios"]
     }
   ],
-  "languages": [
+  languages: [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      language: "English",
+      fluency: "Native speaker"
     }
   ],
-  "interests": [
+  interests: [
     {
-      "name": "Outside",
-      "keywords": [
+      name: "Outside",
+      keywords: [
         "Hiking",
         "Camping",
         "Backpacking",
@@ -245,16 +239,12 @@ module.exports = {
       ]
     },
     {
-      "name": "IOT",
-      "keywords": [
-        "Raspberry Pie",
-        "Arduino",
-        "Home Automation"
-      ]
+      name: "IOT",
+      keywords: ["Raspberry Pie", "Arduino", "Home Automation"]
     },
     {
-      "name": "Inside",
-      "keywords": [
+      name: "Inside",
+      keywords: [
         "Brewing homemade Ginger Ale",
         "Survival games/FPS shooter games",
         "Virtual Reality games",
@@ -262,10 +252,11 @@ module.exports = {
       ]
     }
   ],
-  "references": [
+  references: [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      name: "Erlich Bachman",
+      reference:
+        "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
-}
+};
