@@ -7,7 +7,7 @@ module.exports = {
     phone: "(336) 413-4767",
     website: "https://camars.github.io/",
     summary:
-      "Chris hails from King, North Carolina. He went to a few colleges and ran his own landscaping company before realizing his love for telling computers how to do things. He started his career in a start-up called Outpour Films where he mostly did front end work. He then moved up to a UI developer at Market America but this was very far from his new home in Charlotte. He then became a prototyper at Lowes Home Improvement. After some downsizing he then moved to a more full stack role at CompuCom. He also enjoys playing video games, digging for gems,cutting/polishing, and them making them into jewelry, hiking, and helping others learn to code.",
+      "Chris hails from King, North Carolina. He went to a few colleges and ran his own landscaping company before realizing his love for telling computers how to do things. He started his career in a start-up called Outpour Films where he mostly did front end work. He then moved up to a UI developer at Market America but this was very far from his new home in Charlotte. He then became a prototyper at Lowes Home Improvement. After some downsizing he then moved to a more full stack role at CompuCom. He also enjoys playing video games, digging for gems, cutting/polishing, and them making them into jewelry, hiking, and helping others learn to code.",
     location: {
       address: "7909 Philadelphia Ct.",
       postalCode: "NC 28216",
